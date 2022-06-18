@@ -81,7 +81,7 @@ Prolog is a family of languages, which are based on declaring relationships and 
 
 https://en.wikipedia.org/wiki/Prolog
 
-## What isn't X language in this list?
+## Why isn't X language in this list?
 
 TBD, but the beginning of the topic is related to these concepts:
 https://en.wikipedia.org/wiki/Turing_tarpit
